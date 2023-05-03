@@ -20,4 +20,6 @@ In this project, the following ML techniques have been implemented
 - Xtreme Gradient Boosting
 - Support Vector Machine (SVM)
 
+### Data is sourced from a public Govt. of India repository (https://cpcb.nic.in/)
+
 Please note that the codes used in the repository have been adopted from the codes shared by Prof. Dadabada as part of the 'Predictive Analytics for Business Forecasting' course at the Indian Institute of Management Shillong. The codes have been further modified to fit the appropriate use cases.
